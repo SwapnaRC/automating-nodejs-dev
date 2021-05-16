@@ -1,4 +1,4 @@
-# automating-nodejs-dev
+###### Steps to run
 
 Add the nodemon  dependency `npm i -D nodemon`
 
